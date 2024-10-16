@@ -22,7 +22,7 @@ This project demonstrates how to automate the deployment of a static website usi
 
 This project automates the deployment of a static website using Chef.
 
-![Nginx Deployment Screenshot](images/deployment_screenshot.png)
+![Nginx Deployment Screenshot](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4JObvQmntLjv46gd1iP2LQ.png)
 
 ## Overview
 The static website is deployed using Nginx across two EC2 instances.
